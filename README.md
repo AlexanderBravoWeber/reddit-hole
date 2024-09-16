@@ -141,3 +141,6 @@ All we are left do is run:
 ```bash
 python main.py
 ```
+
+Notes:
+FFMPEG is a required Path variable.
